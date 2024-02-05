@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas Sesi 3</string>
+    <string name="traveling">Traveling</string>
+    <string name="reading">Reading</string>
+    <string name="coding">Coding</string>
+    <string name="todo">TODO</string>
+    <string name="TODO">TODO</string>
+    <string name="pria">PRIA</string>
+    <string name="wanita">WANITA</string>
+    <string name="nama">Nama:</string>
+    <string name="gender">Gender:</string>
+    <string name="hobi">Hobi:</string>
+</resources>

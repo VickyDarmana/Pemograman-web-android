@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editNama" type="id" />
+    <item name="radioGroup" type="id" />
+    <item name="cbReading" type="id" />
+    <item name="cbTraveling" type="id" />
+    <item name="imgButtonAdd" type="id" />
+    <item name="imgButtonCancel" type="id" />
+</resources>
